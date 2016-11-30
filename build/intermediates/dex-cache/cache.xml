@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.felipecsl\gifimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e739330288642e9e8d865b72f6dc23706c245a1d">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.felipecsl-gifimageview-2.0.0_b1bf34af6b63509eb464e8e1b8f466689a4d9e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioSDK2\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_bb6dfd11be1c6c1ea17bb16555f057cd0f569181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b3a37f3c84c418031a73b34bfeba71df4e8bef2">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\instant-run_68e24d5b34bfa7f3e8906d284d8329033c1c9d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha2_9270aec9e4e589984f72c84b2f9b3147d3b8d28a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d1cdccca8b9e909e7260e10126b30cfa2b94ed08">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_15ca5b42191d7659df9345a8712130a608f2ff02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha2_d0cde9d4ba1bead71add98b4a3707f77ca1ff50d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-alpha1_343a4a5164067bae852f99fdea90056ae636dd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha2_9785a625f0b140fb454a4d774d858953f56edb43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_ad64b08eaf6014dde2a330baf971ef6ba4935d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_79e241e15591f94401df7c9b7e949428132ffd58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="D:\AndroidStudioProject\Android23Demo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-alpha1_83047fade7ed876a347971ba9f1dabf8821a2259.jar" />
+    </item>
+
+</items>
